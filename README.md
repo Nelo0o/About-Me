@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Actuellement à la recherche d'une alternance pour un poste de développeur web full-stack dans le cadre de ma formation chez LiveCampus qui débute le 29 septembre 2023 et qui se termine le 31 octobre 2025 à raison d’une semaine de formation par mois et 3 semaines en entreprise.<br><br>Je suis un développeur web débutant passionné et motivé, avec une solide formation en informatique et en développement web. Je suis en train de développer mes compétences en utilisant les dernières technologies pour créer des sites web attractifs et fonctionnels. Je suis une personne curieuse et proactive, toujours à la recherche de nouvelles opportunités pour apprendre et grandir dans le domaine du développement web. J'ai hâte de travailler avec des équipes expérimentées pour développer mes compétences et faire évoluer mes connaissances.
+Je suis en train de développer mes compétences en utilisant les dernières technologies pour créer des sites web attractifs et fonctionnels. Je suis une personne curieuse et proactive, toujours à la recherche de nouvelles opportunités pour apprendre et grandir dans le domaine du développement web. J'ai hâte de travailler avec des équipes expérimentées pour développer mes compétences et faire évoluer mes connaissances.
 
 
 ## 🌐 Socials:
